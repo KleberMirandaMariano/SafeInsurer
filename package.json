@@ -1,0 +1,14 @@
+{
+  "name": "safe",
+  "version": "1.0.0",
+  "description": "cotador de seguros residenciais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "safe"
+  ],
+  "author": "Kleber Miranda Mariano",
+  "license": "ISC"
+}

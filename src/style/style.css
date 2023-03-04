@@ -1,0 +1,80 @@
+.body {
+    background : #9CA1A5;
+}
+
+.button {
+    background :#9CA1A5;
+    color: black;
+    height: 30px;
+    width: 85px;
+    margin-left: 55px;
+    margin-top: 290px;
+}
+
+.esterno {
+  border-style: solid black;
+  position: absolute;
+  width: 575px;
+  height: 385px;
+  left: 399px;
+  top: 150px;
+
+
+  background-color: rgb(68,68,68);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.login {
+  position: absolute;
+  width: 233px;
+  height: 43px;
+  left: 55px;
+  top: 65px;
+
+  font-family: 'inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 36px;
+
+  color: #101010;
+}
+
+.senha {
+  position: absolute;
+  width: 233px;
+  height: 43px;
+  left: 55px;
+  top: 180px;
+
+  font-family: 'inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 36px;
+
+  color: #101010;
+}
+
+.campo-login {
+  position: absolute;
+  width: 465px;
+  height: 45px;
+  left: 55px;
+  right: 55px;
+  top: 100px;
+
+  background-color: #C2C2C2;
+
+}
+
+.campo-senha {
+  position: absolute;
+  width: 465px;
+  height: 45px;
+  left: 55px;
+  right: 55px;
+  top: 215px;
+
+  background-color: #C2C2C2;
+}
